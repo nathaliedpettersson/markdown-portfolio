@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**I am not eating to survive, I live to eat**
+__I love all four seasons__
+
+_Sometimes I am lazy_
