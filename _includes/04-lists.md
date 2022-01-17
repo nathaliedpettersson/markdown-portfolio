@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Hang out with girlfriend and friends 
+* Eat & drink
+* Travel
+* Watch TV-shows
